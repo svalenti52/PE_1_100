@@ -1,4 +1,4 @@
-// pe6.gp
+\\ pe6.gp
 
 v=vector(100,x,x)
 vs=vector(100,x,x^2)
